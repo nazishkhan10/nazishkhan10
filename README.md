@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:030712,35:0f172a,70:1e1b4b,100:6366f1&height=180&section=header&text=Nazish%20Khan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Systems%20Engineer%20%7C%20Medical%20Intelligence%20and%20GovTech%20AI%20Platforms&descAlignY=62&descAlign=50" width="100%"/>
 
@@ -19,7 +19,7 @@
 
 <div align="center">
 
-[`🎯 Profile Summary`](#-profile-summary) • [`🔬 Engineering Domains`](#-primary-engineering-domains) • [`💻 Featured Platforms`](#-featured-platforms) • [`🏗️ Ingestion Architecture`](#-multi-modal-ingestion--verification-architecture) • [`🛠️ Tech Stack`](#-technical-skill-matrix) • [`🎖️ Honors & Awards`](#-honors-competitions--recognition) • [`📊 GitHub Analytics`](#-github-activity--analytics)
+[`🎯 Profile Summary`](#-profile-summary) • [`🔬 Engineering Domains`](#-primary-engineering-domains) • [`💻 Featured Platforms`](#-featured-platforms) • [`🏗️ Ingestion Architecture`](#-multi-modal-ingestion--verification-architecture) • [`🛠️ Tech Stack`](#-technical-skill-matrix) • [`🎖️ Honors & Awards`](#-honors-competitions--recognition)
 
 </div>
 
@@ -213,25 +213,6 @@ In mission-critical sectors such as healthcare diagnostics and statutory metrolo
 | Distinction | Event & Organizing Body | Highlight Summary |
 | :--- | :--- | :--- |
 | 🥈 **2nd Runner-Up (State Level)** | **CODEX Hackfest 2026** | Awarded for building **Swasth-IQ**, a multi-organ medical report intelligence suite featuring deterministic physiological scoring and neural OCR. |
-| 🏆 **State Technical Finalist** | **Regional Engineering Hackathons (2025–2026)** | Recognized for automated document AI extraction pipelines and compliance rule engines. |
-| 🥇 **Winner (Ideation & Prototype)** | **Inter-College Technical Symposia** | Honored for GovTech regulatory automation and automated packaging verification tools. |
-
----
-
-## 📊 GitHub Activity & Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nazishkhan10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=818cf8&icon_color=6366f1&text_color=94a3b8" height="165" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazishkhan10&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=818cf8&text_color=94a3b8" height="165" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazishkhan10&theme=tokyonight&hide_border=true&background=090d16&stroke=818cf8&ring=6366f1&fire=818cf8&currStreakNum=ffffff" alt="GitHub Streak" width="700"/>
-
-</div>
-
 ---
 
 ## 📬 Contact & Collaboration
