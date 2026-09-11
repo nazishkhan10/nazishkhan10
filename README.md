@@ -4,98 +4,131 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&lines=AI+Systems+Engineer+%C2%B7+Medical+Intelligence+and+GovTech+Platforms;CODEX+Hackfest+2026+State+Level+2nd+Runner-Up;FastAPI+%C2%B7+React+18+%C2%B7+PyMuPDF+%C2%B7+Computer+Vision+%C2%B7+TypeScript;Production+Verification+Engines+and+Clinical+AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=840&lines=AI+Systems+Engineer+%C2%B7+Medical+Intelligence+and+GovTech+Platforms;CODEX+Hackfest+2026+State+Level+2nd+Runner-Up;FastAPI+%C2%B7+React+18+%C2%B7+PyMuPDF+%C2%B7+Computer+Vision+%C2%B7+TypeScript;Production+Verification+Engines+and+Clinical+AI" alt="Typing SVG" /></a>
 
 <p align="center">
-  <a href="https://github.com/nazishkhan10"><img src="https://img.shields.io/badge/GitHub-nazishkhan10-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/nazishkhan"><img src="https://img.shields.io/badge/LinkedIn-nazishkhan-4f46e5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:nazish400210@gmail.com"><img src="https://img.shields.io/badge/Email-nazish400210@gmail.com-e11d48?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-059669?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"/>
+  <a href="https://github.com/nazishkhan10"><img src="https://img.shields.io/badge/GitHub-nazishkhan10-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/nazishkhan"><img src="https://img.shields.io/badge/LinkedIn-nazishkhan-4f46e5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:nazish400210@gmail.com"><img src="https://img.shields.io/badge/Email-nazish400210@gmail.com-e11d48?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-059669?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 </div>
 
 ---
 
-### ⚡ Quick Navigation
-- [Profile Summary](#-profile-summary)
-- [Primary Engineering Domains](#-primary-engineering-domains)
-- [Core Portfolio & Key Systems](#-core-portfolio--key-systems)
-- [Multi-Modal Ingestion & Verification Architecture](#-multi-modal-ingestion--verification-architecture)
-- [Technical Skill Matrix](#-technical-skill-matrix)
-- [Honors, Competitions & Recognition](#-honors-competitions--recognition)
-- [Contact & Collaboration](#-contact--collaboration)
+<div align="center">
+
+[`🎯 Profile Summary`](#-profile-summary) • [`🔬 Engineering Domains`](#-primary-engineering-domains) • [`💻 Featured Platforms`](#-featured-platforms) • [`🏗️ Ingestion Architecture`](#-multi-modal-ingestion--verification-architecture) • [`🛠️ Tech Stack`](#-technical-skill-matrix) • [`🎖️ Honors & Awards`](#-honors-competitions--recognition) • [`📊 GitHub Analytics`](#-github-activity--analytics)
+
+</div>
 
 ---
 
 ## 🎯 Profile Summary
 
-I am an **AI Systems Engineer and Full-Stack Builder** focused on **Applied Medical Intelligence**, **Computer Vision for Regulatory Compliance**, and **Deterministic Clinical Verification Systems**. 
+I am an **AI Systems Engineer and Full-Stack Builder** specializing in **Applied Medical Intelligence**, **Computer Vision for Statutory Compliance**, and **Deterministic Clinical Verification Engines**.
 
-I bridge the gap between machine intelligence and production reliability. In domains like healthcare diagnostics and statutory metrology, probabilistic models alone cannot be trusted without rigorous verification layers. My engineering philosophy centers on three core principles:
+In mission-critical sectors such as healthcare diagnostics and statutory metrology, probabilistic models alone cannot be deployed without deterministic verification scaffolding. My engineering philosophy is built on three core pillars:
 
-1. **Deterministic Verification Boundaries:** Pairing probabilistic generative models with algorithmic validation layers, clinical panic thresholds, and schedule-based statutory rule engines.
-2. **Multi-Modal Document Parsing:** Engineering resilient optical pipelines that ingest both pristine digital vector PDFs and noisy, low-contrast physical camera captures across non-standard layouts.
-3. **Auditability & Provenance:** Constructing tamper-evident provenance graphs and court-ready PDF dossiers that trace every model inference back to pixel-level bounding boxes and physical source documents.
+1. **Deterministic Verification Boundaries:** Coupling generative vision models with mathematical validation rules, clinical panic thresholds, and statutory schedule specifications.
+2. **Multi-Modal Document Parsing:** Building high-throughput optical ingestion engines capable of processing pristine vector PDFs as well as noisy, low-light mobile snapshots across variable real-world packaging and clinical formats.
+3. **Traceability & Court-Ready Provenance:** Enforcing character-level and bounding-box attribution so that every automated inference maps directly to source evidence.
 
-Recently recognized as the **State-Level 2nd Runner-Up at CODEX Hackfest 2026** for architecting `Swasth-IQ`—a multi-organ medical report intelligence suite that computes deterministic physiological indices across 100+ clinical laboratory parameters.
+---
+
+### 🏆 Spotlight Achievement
+
+> ### 🥈 **2nd Runner-Up (State Level) — CODEX Hackfest 2026**
+> Awarded for building **Swasth-IQ**—a production-grade multi-organ medical report intelligence suite featuring deterministic physiological scoring, dual-engine OCR (vector extraction + neural vision), and an audited clinical decision-support copilot.
 
 ---
 
 ## 🔬 Primary Engineering Domains
 
-```
-┌──────────────────────────────────┬──────────────────────────────────┬──────────────────────────────────┐
-│  Multi-Organ Medical Intelligence│  Longitudinal Clinical Systems   │  GovTech Regulatory Computer Vision
-├──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┤
-│  • Multi-Engine Diagnostic OCR   │  • Temporal Event Aggregation    │  • Multi-Surface Spatial Labeling│
-│  • 5-Organ Physiological Scoring │  • Longitudinal Record Trajectory│  • Rule 7 PDP Font-Height Area   │
-│  • Automated Panic Value Gating  │  • Domain-Driven Design (DDD)    │  • Twilio WhatsApp Field Agent   │
-│  • Normalization of 100+ Panels  │  • Multi-Tier Safety Firewall    │  • Court-Ready PDF Dossiers      │
-└──────────────────────────────────┴──────────────────────────────────┴──────────────────────────────────┘
-```
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### 🩺 Multi-Organ Medical Intelligence
+- Multi-Engine Diagnostic OCR (PyMuPDF + Sarvam)
+- Deterministic 5-Organ Health Scoring (0–100)
+- Automated Emergency Panic Value Alerters
+- Normalization Across 100+ Lab Parameters
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ⏱️ Longitudinal Clinical Systems
+- Longitudinal Patient Event Synthesis
+- Chronological Outpatient & Lab Timeline
+- Domain-Driven Design (DDD) Micro-Modules
+- Multi-Tier Clinical Safety Guardrails
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### 📦 GovTech Regulatory Computer Vision
+- Multi-Surface Packaging Inspection (4 Facets)
+- Cross-Surface Pointer & Batch Resolvers
+- Rule 7 PDP Font-Height Area Verification
+- Twilio WhatsApp Field Bot & PDF Dossiers
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💻 Core Portfolio & Key Systems
+## 💻 Featured Platforms
 
-### 1. [Swasth-IQ — Multi-Organ Medical Report Intelligence & Diagnostic Suite](https://github.com/nazishkhan10/Swasth-IQ.git)
-> **Role:** *Lead Architect & Full-Stack AI Engineer*  
-> **Repository:** [`nazishkhan10/Swasth-IQ`](https://github.com/nazishkhan10/Swasth-IQ.git)  
-> **Recognition:** **2nd Runner-Up (State Level) — CODEX Hackfest 2026**  
-> **Key Benchmark:** **250/250 Automated Tests Passing · Sub-150ms Vector Extraction · 100+ Standardized Lab Parameters**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Dual-Path Ingestion Pipeline:** Combines native PyMuPDF vector text extraction for pristine digital laboratory PDFs with neural vision OCR (Sarvam Vision / Tesseract) for degraded mobile camera photographs.
-- **Clinical Parameter Standardizer:** Canonical token matching engine that normalizes over 100+ parameter variations across 8 clinical panels (CBC, Lipid, Renal, Hepatic, Metabolic, Thyroid, Electrolytes, Urine).
-- **Deterministic 5-Organ Scoring:** Implements transparent mathematical scoring algorithms (0–100) evaluating Cardiovascular, Renal, Hepatic, Metabolic, and Hematological organ health without black-box hallucination risk.
-- **Panic Threshold Alerter:** Automatically flags critical life-threatening values with immediate visual emergency triage alerts.
-- **Tech Stack:** *Python 3.10+, FastAPI, React 18 PWA, PyMuPDF, Sarvam Vision, Vite, Tailwind CSS, Pytest*
+### 🩸 [Swasth-IQ — Medical Report Intelligence Suite](https://github.com/nazishkhan10/Swasth-IQ.git)
+*Multi-Organ Diagnostic Analytics & Automated Health Scoring*
 
----
+- 🥈 **CODEX Hackfest 2026 State Level 2nd Runner-Up**
+- **Dual-Path Ingestion:** Sub-150ms PyMuPDF vector extraction combined with neural OCR for degraded physical scans.
+- **5-Organ Health Scoring:** Transparent mathematical indexes for Cardiovascular, Renal, Hepatic, Metabolic, and Hematological systems.
+- **Verification Suite:** 250/250 automated tests verifying parameter extraction, normalizer rules, and API endpoints.
 
-### 2. [Veda-Lens — Longitudinal Clinical Intelligence & Medical Copilot Platform](https://github.com/nazishkhan10/Veda-Lens.git)
-> **Role:** *Systems Architect & Backend Lead*  
-> **Repository:** [`nazishkhan10/Veda-Lens`](https://github.com/nazishkhan10/Veda-Lens.git)  
-> **Core Focus:** **Longitudinal Patient Event Sequencing · Multi-Tier Clinical Safety Firewall**
+**Stack:** `Python 3.10+` · `FastAPI` · `React 18 PWA` · `PyMuPDF` · `Sarvam Vision` · `Vite` · `TailwindCSS` · `Pytest`  
+🔗 **[Explore Repository →](https://github.com/nazishkhan10/Swasth-IQ.git)**
 
-- **Longitudinal Trajectory Engine:** Synthesizes fragmented medical encounters (outpatient consults, lab reports, surgical procedures, and emergency admissions) into an interactive chronological timeline.
-- **Clean Domain-Driven Architecture:** Decoupled business modules (`patients`, `timeline`, `ingestion`, `medicine_engine`, `assistant`) operating over an asynchronous SQLAlchemy 2.0 / aiosqlite core.
-- **Multi-Tier Clinical Firewall:** Shields clinician queries behind automatic PHI de-identification, grounded context validation, and reference citation tracking.
-- **Pharmacological Interaction Core:** Screens multi-drug prescriptions against known adverse contraindications, dosage ranges, and co-administration hazards.
-- **Tech Stack:** *FastAPI, React 18, TypeScript, Tailwind CSS, SQLAlchemy 2.0 (AsyncIO), OpenAI GPT-5 Nano*
+</td>
+<td width="50%" valign="top">
 
----
+### 🩺 [Veda-Lens — Longitudinal Clinical Intelligence](https://github.com/nazishkhan10/Veda-Lens.git)
+*Longitudinal Patient Trajectory Engine & Safety Copilot*
 
-### 3. [Package-Commodity-Compliance — Automated Statutory Label & Metrology Verification Engine](https://github.com/nazishkhan10/Package-commodity-compliance.git)
-> **Role:** *Lead Developer & GovTech Systems Engineer*  
-> **Repository:** [`nazishkhan10/Package-commodity-compliance`](https://github.com/nazishkhan10/Package-commodity-compliance.git)  
-> **Target Scope:** **Legal Metrology (Packaged Commodities) Rules, 2011 (LMPC 2011) for Dept. of Consumer Affairs**
+- **Timeline Synthesis:** Collates fragmented consultations, lab orders, inpatient visits, and discharge records into an interactive chronological stream.
+- **Clinical Safety Firewall:** Automatic PHI scrubbers, anti-hallucination confidence floors, and reference attribution.
+- **Pharmacological Screening:** Detects cross-drug contraindications, posology anomalies, and therapeutic class duplications.
 
-- **Multi-Surface & Pointer Resolution:** Simultaneously analyzes up to 4 packaging facets (`FRONT`, `BACK`, `TOP_CAP`, `BOTTOM`) and resolves cross-surface statutory pointers (*"For MRP and Expiry, see Neck"*).
-- **Statutory PDP Metric Verification:** Enforces Rule 7 minimum character height ratios relative to Principal Display Panel surface areas using bounding box geometry.
-- **Field Inspector WhatsApp Integration:** Conversational WhatsApp bot via Twilio webhooks that inspects field package photos and generates instant compliance scorecards and violation notices in seconds.
-- **Interactive 3D WebGL Inspection:** Features Three.js and `@react-three/fiber` rendering to project multi-surface scans onto an interactive 3D container for courtroom evidentiary presentation.
-- **Tech Stack:** *FastAPI, React 18, Three.js, Tesseract 5.4, Gemini Vision, Twilio WhatsApp, ReportLab*
+**Stack:** `FastAPI` · `React 18` · `TypeScript` · `TailwindCSS` · `SQLAlchemy 2.0 Async` · `aiosqlite` · `OpenAI GPT-5 Nano`  
+🔗 **[Explore Repository →](https://github.com/nazishkhan10/Veda-Lens.git)**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📦 [Package-Commodity-Compliance — Statutory Label & Metrology Engine](https://github.com/nazishkhan10/Package-commodity-compliance.git)
+*GovTech Regulatory AI Enforcing Legal Metrology Rules (LMPC 2011) for Dept. of Consumer Affairs*
+
+- **Multi-Surface & Pointer Intelligence:** Concurrently parses up to 4 facets (`FRONT`, `BACK`, `TOP_CAP`, `BOTTOM`) and resolves cross-surface statutory pointers (*"For MRP and Expiry, see Cap"*).
+- **Rule 7 PDP Font-Height Measuring:** Computes text bounding areas relative to Principal Display Panel surface boundaries.
+- **Field Inspector WhatsApp Agent:** Field officers photograph retail goods via WhatsApp to receive instant compliance scorecards and tamper-evident PDF dossiers.
+- **3D WebGL Inspection:** Interactive container reconstruction using Three.js and `@react-three/fiber`.
+
+**Stack:** `FastAPI` · `React 18 PWA` · `Three.js` · `Tesseract 5.4` · `Google Gemini Vision` · `Twilio WhatsApp` · `ReportLab`  
+🔗 **[Explore Repository →](https://github.com/nazishkhan10/Package-commodity-compliance.git)**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -137,33 +170,73 @@ Recently recognized as the **State-Level 2nd Runner-Up at CODEX Hackfest 2026** 
 
 ---
 
+<details>
+<summary><b>🔍 Expand: Technical Deep-Dives & Ingestion Topologies</b></summary>
+<br/>
+
+#### 1. Ingestion Performance & Fallbacks
+- **Vector First (<150ms):** Direct PDF stream extraction via PyMuPDF skips heavy OCR compute for all digitally generated reports.
+- **Neural Optical Second:** Degraded or camera-skewed physical documents route to neural vision models with resolution enhancement and contrast normalization.
+
+#### 2. Statutory Rule Gating (LMPC 2011)
+- **Mandatory Declarations:** Rule 6 checks for Generic Name, Net Quantity, Manufacturer, Consumer Care, MRP, Unit Sale Price (USP), and Country of Origin.
+- **Proportional Geometry:** Rule 7 enforces minimum millimeter font heights based on the surface area of the Principal Display Panel.
+
+#### 3. Clinical Gating & Triage
+- **Panic Gating:** Immediately prompts clinical alerts if potassium, glucose, or platelet parameters cross emergent thresholds.
+- **Evidence Provenance:** Every response returned by copilot endpoints carries bounding box or row-level coordinates to eliminate speculative hallucination.
+
+</details>
+
+---
+
 ## 🛠️ Technical Skill Matrix
 
-| Category | Technologies, Frameworks & Tooling |
-| :--- | :--- |
-| **Languages** | Python (3.10 / 3.11 / 3.12), TypeScript, JavaScript, SQL, HTML5/CSS3 |
-| **Backend & Architecture** | FastAPI, Asynchronous Python (AsyncIO), RESTful API Design, SQLAlchemy 2.0, Uvicorn, Pydantic v2 |
-| **Computer Vision & OCR** | PyMuPDF (Fitz), Tesseract 5.4 OCR, Google Gemini Flash Vision, Sarvam Vision API, Pillow |
-| **Frontend & Visualization** | React 18, Vite, TypeScript, Three.js, @react-three/fiber, Tailwind CSS, Lucide React |
-| **Databases & Caching** | PostgreSQL, SQLite / aiosqlite, Alembic |
-| **Mobile & Integrations** | Progressive Web Apps (PWA), Twilio WhatsApp API, ReportLab PDF Engine |
-| **DevOps & Testing** | Git, GitHub, Docker, Docker Compose, Pytest (250+ automated suites), Linux CLI |
+```
+┌─────────────────────────┬────────────────────────────────────────────────────────────────────────┐
+│ Area                    │ Technologies & Tools                                                   │
+├─────────────────────────┼────────────────────────────────────────────────────────────────────────┤
+│ Languages               │ Python 3.10+, TypeScript, JavaScript, SQL, HTML5, CSS3                 │
+│ Backend Architecture    │ FastAPI, AsyncIO, RESTful APIs, SQLAlchemy 2.0, Uvicorn, Pydantic v2   │
+│ Computer Vision & OCR   │ PyMuPDF (Fitz), Tesseract 5.4, Google Gemini Flash Vision, Sarvam API  │
+│ Frontend & 3D Web       │ React 18, Vite, Three.js, @react-three/fiber, Tailwind CSS, Lucide UI │
+│ Data & Persistence      │ PostgreSQL, SQLite / aiosqlite, Alembic migrations                     │
+│ Mobile & Field Systems  │ Progressive Web Apps (PWA), Twilio WhatsApp API, ReportLab PDF Engine  │
+│ DevOps & Quality        │ Git, GitHub, Docker, Docker Compose, Pytest (250+ automated suites)    │
+└─────────────────────────┴────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
 ## 🎖️ Honors, Competitions & Recognition
 
-| Award / Distinction | Event / Institutional Context | Description & Highlights |
+| Distinction | Event & Organizing Body | Highlight Summary |
 | :--- | :--- | :--- |
-| 🥈 **2nd Runner-Up (State Level)** | **CODEX Hackfest 2026** | Awarded for building **Swasth-IQ**, an end-to-end multi-organ medical report intelligence suite featuring deterministic physiological scoring and neural OCR. |
-| 🏆 **State Technical Finalist** | **Regional Engineering Hackathons (2025–2026)** | Recognized for high-accuracy document AI extraction pipelines and compliance rule engines. |
-| 🥇 **Winner (Ideation & Prototype)** | **Inter-College Technical Symposia** | Honored for innovative GovTech regulatory automation and legal metrology inspection tools. |
+| 🥈 **2nd Runner-Up (State Level)** | **CODEX Hackfest 2026** | Awarded for building **Swasth-IQ**, a multi-organ medical report intelligence suite featuring deterministic physiological scoring and neural OCR. |
+| 🏆 **State Technical Finalist** | **Regional Engineering Hackathons (2025–2026)** | Recognized for automated document AI extraction pipelines and compliance rule engines. |
+| 🥇 **Winner (Ideation & Prototype)** | **Inter-College Technical Symposia** | Honored for GovTech regulatory automation and automated packaging verification tools. |
+
+---
+
+## 📊 GitHub Activity & Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nazishkhan10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=818cf8&icon_color=6366f1&text_color=94a3b8" height="165" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazishkhan10&layout=compact&theme=tokyonight&hide_border=true&bg_color=090d16&title_color=818cf8&text_color=94a3b8" height="165" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazishkhan10&theme=tokyonight&hide_border=true&background=090d16&stroke=818cf8&ring=6366f1&fire=818cf8&currStreakNum=ffffff" alt="GitHub Streak" width="700"/>
+
+</div>
 
 ---
 
 ## 📬 Contact & Collaboration
 
-I am always interested in discussing applied AI engineering, clinical document intelligence, and GovTech platform development:
+I am actively open to discussions on applied AI engineering, clinical document intelligence, and GovTech platform development:
 
 - **GitHub:** [@nazishkhan10](https://github.com/nazishkhan10)
 - **Email:** [nazish400210@gmail.com](mailto:nazish400210@gmail.com)
