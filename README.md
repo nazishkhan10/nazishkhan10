@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&lines=Building+Medical+Biomarker+and+Diagnostic+AI+Platforms;CODEX+Hackfest+2026+State+Level+2nd+Runner-Up;Creator+of+Swasth-IQ%2C+Veda-Lens+and+PackComply;FastAPI+%C2%B7+React+18+%C2%B7+PyMuPDF+%C2%B7+Computer+Vision+%C2%B7+TypeScript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=820&lines=AI+Systems+Engineer+%C2%B7+Medical+Intelligence+and+GovTech+Platforms;CODEX+Hackfest+2026+State+Level+2nd+Runner-Up;FastAPI+%C2%B7+React+18+%C2%B7+PyMuPDF+%C2%B7+Computer+Vision+%C2%B7+TypeScript;Production+Verification+Engines+and+Clinical+AI" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://github.com/nazishkhan10"><img src="https://img.shields.io/badge/GitHub-nazishkhan10-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -32,13 +32,13 @@
 
 I am an **AI Systems Engineer and Full-Stack Builder** focused on **Applied Medical Intelligence**, **Computer Vision for Regulatory Compliance**, and **Deterministic Clinical Verification Systems**. 
 
-I bridge the gap between bleeding-edge machine intelligence and production reliability. In domains like healthcare diagnostics and statutory metrology, probabilistic models alone cannot be trusted without rigorous verification layers. My engineering philosophy centers on three core principles:
+I bridge the gap between machine intelligence and production reliability. In domains like healthcare diagnostics and statutory metrology, probabilistic models alone cannot be trusted without rigorous verification layers. My engineering philosophy centers on three core principles:
 
 1. **Deterministic Verification Boundaries:** Pairing probabilistic generative models with algorithmic validation layers, clinical panic thresholds, and schedule-based statutory rule engines.
 2. **Multi-Modal Document Parsing:** Engineering resilient optical pipelines that ingest both pristine digital vector PDFs and noisy, low-contrast physical camera captures across non-standard layouts.
 3. **Auditability & Provenance:** Constructing tamper-evident provenance graphs and court-ready PDF dossiers that trace every model inference back to pixel-level bounding boxes and physical source documents.
 
-Recently recognized as the **State-Level 2nd Runner-Up at CODEX Hackfest 2026** for architecting `Swasth-IQ`—a multi-organ medical report intelligence suite that computes deterministic physiological indices across 100+ clinical biomarkers.
+Recently recognized as the **State-Level 2nd Runner-Up at CODEX Hackfest 2026** for architecting `Swasth-IQ`—a multi-organ medical report intelligence suite that computes deterministic physiological indices across 100+ clinical laboratory parameters.
 
 ---
 
@@ -46,7 +46,7 @@ Recently recognized as the **State-Level 2nd Runner-Up at CODEX Hackfest 2026** 
 
 ```
 ┌──────────────────────────────────┬──────────────────────────────────┬──────────────────────────────────┐
-│  Medical Biomarker Intelligence  │  Longitudinal Clinical Systems   │  GovTech Regulatory Computer Vision
+│  Multi-Organ Medical Intelligence│  Longitudinal Clinical Systems   │  GovTech Regulatory Computer Vision
 ├──────────────────────────────────┼──────────────────────────────────┼──────────────────────────────────┤
 │  • Multi-Engine Diagnostic OCR   │  • Temporal Event Aggregation    │  • Multi-Surface Spatial Labeling│
 │  • 5-Organ Physiological Scoring │  • Longitudinal Record Trajectory│  • Rule 7 PDP Font-Height Area   │
@@ -59,14 +59,14 @@ Recently recognized as the **State-Level 2nd Runner-Up at CODEX Hackfest 2026** 
 
 ## 💻 Core Portfolio & Key Systems
 
-### 1. [Swasth-IQ — Intelligent Medical Biomarker Intelligence & Diagnostic Suite](https://github.com/nazishkhan10/Swasth-IQ.git)
+### 1. [Swasth-IQ — Multi-Organ Medical Report Intelligence & Diagnostic Suite](https://github.com/nazishkhan10/Swasth-IQ.git)
 > **Role:** *Lead Architect & Full-Stack AI Engineer*  
 > **Repository:** [`nazishkhan10/Swasth-IQ`](https://github.com/nazishkhan10/Swasth-IQ.git)  
 > **Recognition:** **2nd Runner-Up (State Level) — CODEX Hackfest 2026**  
-> **Key Benchmark:** **250/250 Automated Tests Passing · Sub-150ms Vector Extraction · 100+ Standardized Biomarkers**
+> **Key Benchmark:** **250/250 Automated Tests Passing · Sub-150ms Vector Extraction · 100+ Standardized Lab Parameters**
 
 - **Dual-Path Ingestion Pipeline:** Combines native PyMuPDF vector text extraction for pristine digital laboratory PDFs with neural vision OCR (Sarvam Vision / Tesseract) for degraded mobile camera photographs.
-- **Biomarker Standardizer:** Canonical token matching engine that normalizes over 100+ parameter variations across 8 clinical panels (CBC, Lipid, Renal, Hepatic, Metabolic, Thyroid, Electrolytes, Urine).
+- **Clinical Parameter Standardizer:** Canonical token matching engine that normalizes over 100+ parameter variations across 8 clinical panels (CBC, Lipid, Renal, Hepatic, Metabolic, Thyroid, Electrolytes, Urine).
 - **Deterministic 5-Organ Scoring:** Implements transparent mathematical scoring algorithms (0–100) evaluating Cardiovascular, Renal, Hepatic, Metabolic, and Hematological organ health without black-box hallucination risk.
 - **Panic Threshold Alerter:** Automatically flags critical life-threatening values with immediate visual emergency triage alerts.
 - **Tech Stack:** *Python 3.10+, FastAPI, React 18 PWA, PyMuPDF, Sarvam Vision, Vite, Tailwind CSS, Pytest*
